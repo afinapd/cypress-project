@@ -9,4 +9,5 @@
 - rm -r ./cypress/reports/*.json
 
 **run test**
-- npm run test
+- ALL: npm run test
+- Specific Test: npx cypress run --spec ./cypress/integration/login.js
