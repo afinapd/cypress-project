@@ -1,5 +1,5 @@
 # JavaScript node dependencies
-/node_modules/
+node_modules/
 
 #VS Code setting files
 .vscode/
